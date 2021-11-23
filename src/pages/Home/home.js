@@ -8,7 +8,7 @@ export default function Example({}) {
       <Flex display="-ms-grid" textAlign="center" mt="5%">
         <Text fontSize="50px">Home</Text>
         <Text margin="auto" width="40%">
-          This is Home.
+          Start here.
         </Text>
       </Flex>
     </Flex>
