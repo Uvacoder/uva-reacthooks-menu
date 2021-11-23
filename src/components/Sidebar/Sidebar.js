@@ -89,7 +89,7 @@ export default function Sidebar() {
           navSize={navSize}
           icon={DiGithubBadge}
           title="Github"
-          href="https://github.com/IvanMJs/react-hooks-page"
+          href="https://github.com/uvacoder/react-hooks-page-test"
         ></NavItem>
       </Flex>
       <Flex
@@ -108,7 +108,7 @@ export default function Sidebar() {
             display={navSize == "small" ? "none" : "flex"}
           >
             <Heading as="h3" size="sm">
-              Iván Meyer
+              uvacoder
             </Heading>
             <Text color="gray"></Text>
           </Flex>
