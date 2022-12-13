@@ -89,7 +89,7 @@ export default function Sidebar() {
           navSize={navSize}
           icon={DiGithubBadge}
           title="Github"
-          href="https://github.com/uvacoder/react-hooks-page-test"
+          href="https://github.com/uvacoder/uva-reacthooks-menu"
         ></NavItem>
       </Flex>
       <Flex
